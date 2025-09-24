@@ -141,12 +141,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Antarctic research community for the scientific articles
 - Ollama team for the LLM infrastructure
 - Streamlit team for the web framework
-- All researchers contributing to penguin conservation
 
 ## 📧 Contact
 
 For questions or collaboration opportunities, please open an issue or reach out through GitHub.
 
 ---
-
-**🐧 Advancing Antarctic research through AI • Made with ❤️ for penguin conservation**
